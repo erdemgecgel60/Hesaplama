@@ -1,0 +1,1 @@
+ cout << randomSayi1 << endl;
